@@ -1,4 +1,4 @@
-package problem
+package leetcode
 
 func targetIndices(nums []int, target int) []int {
 	count, left := 0, 0
