@@ -16,13 +16,20 @@ var tests = []testCase{
 		{1, 1, -1, -2},
 		{-1, -1, -2, -3}},
 		8},
-	{[][]int{{3, 2}, {1, 0}}, 0},
+	{[][]int{
+		{3, 2},
+		{1, 0}},
+		0},
+	{[][]int{
+		{5, 1, 0},
+		{-5, -5, -5}},
+		3},
 }
 
 func Test(t *testing.T) {
 	for _, test := range tests {
 		if output := countNegatives(test.grid); output != test.expected {
-			t.Errorf("Output %q not equal to expected %q", output, test.expected)
+			t.Errorf("Output %d not equal to expected %d", output, test.expected)
 		}
 	}
 }
