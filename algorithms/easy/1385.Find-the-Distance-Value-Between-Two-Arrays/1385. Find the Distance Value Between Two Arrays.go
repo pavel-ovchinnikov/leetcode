@@ -2,26 +2,21 @@ package main
 
 import (
 	"fmt"
-	"math"
 	"sort"
 )
 
 func findTheDistanceValue(arr1 []int, arr2 []int, d int) int {
-	res := 0
-	sort.Ints(arr1)
 	sort.Ints(arr2)
 
-	for _, val1 := range arr1 {
-		f := true
-		for _, val2 := range arr2 {
-			if math.Abs(float64(val1-val2)) <= float64(d) {
-				f = false
-			}
+	res := 0
+	for _, val := range arr1 {
+		minIdx := sort.SearchInts(arr2, val-d)
+		if minIdx < len(arr2) && arr2[minIdx] >= val-d && arr2[minIdx] <= val+d {
+			continue
 		}
-		if f {
-			res++
-		}
+		res++
 	}
+
 	return res
 }
 
