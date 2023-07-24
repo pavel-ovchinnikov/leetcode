@@ -1,0 +1,17 @@
+package main
+
+import (
+	"fmt"
+	"strings"
+)
+
+func toLowerCase(s string) string {
+	return strings.ToLower(s)
+}
+
+func main() {
+	fmt.Println(toLowerCase("Hello"))
+	fmt.Println(toLowerCase("here"))
+	fmt.Println(toLowerCase("LOVELY"))
+
+}
