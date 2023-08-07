@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func sumOfUnique(nums []int) int {
-	m := make([]int, 100)
+	m := make([]int, 101)
 	res := 0
 	for _, val := range nums {
 		m[val]++
