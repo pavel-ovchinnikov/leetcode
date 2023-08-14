@@ -26,7 +26,6 @@ func (h *IntHeap) Pop() interface{} {
 func findKthLargest(nums []int, k int) int {
 	h := IntHeap(nums[:k])
 	heap.Init(&h)
-	fmt.Println(h)
 
 	for _, num := range nums[k:] {
 		if num > h[0] {
@@ -34,7 +33,6 @@ func findKthLargest(nums []int, k int) int {
 			heap.Push(&h, num)
 		}
 	}
-	fmt.Println(h)
 
 	return h[0]
 }
