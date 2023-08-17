@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"math"
 
 	"github.com/pavel-ovchinnikov/LeetCode/structures"
 )
@@ -14,7 +13,14 @@ func maxDepth(root *TreeNode) int {
 		return 0
 	}
 
-	return 1 + int(math.Max(float64(maxDepth(root.Left)), float64(maxDepth(root.Right))))
+	return 1 + max(maxDepth(root.Left), maxDepth(root.Right))
+}
+
+func max(a, b int) int {
+	if a < b {
+		return b
+	}
+	return a
 }
 
 func main() {
