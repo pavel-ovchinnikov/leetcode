@@ -24,6 +24,31 @@ func min(a, b int) int {
 	return b
 }
 
+// func countBinarySubstrings(s string) int {
+// 	res, zero, one := 0, 0, 0
+// 	i := 0
+// 	for i < len(s) {
+// 		one, zero = 0, 0
+// 		if s[i] == '0' {
+// 			for ; i < len(s) && s[i] == '0'; i++ {
+// 				zero++
+// 			}
+// 			for j := i; j < len(s) && s[j] == '1'; j++ {
+// 				one++
+// 			}
+// 		} else {
+// 			for ; i < len(s) && s[i] == '1'; i++ {
+// 				one++
+// 			}
+// 			for j := i; j < len(s) && s[j] == '0'; j++ {
+// 				zero++
+// 			}
+// 		}
+// 		res += min(zero, one)
+// 	}
+// 	return res
+// }
+
 func main() {
 	fmt.Println(countBinarySubstrings("00110011"))
 }
