@@ -3,18 +3,11 @@ package main
 import "fmt"
 
 func maxProduct(nums []int) int {
-	res := nums[0]
-	n := len(nums)
-	maxVal, minVal := res, res
-
-	for i := 0; i < n; i++ {
-		if nums[i] < 0 {
-			maxVal, minVal = minVal, maxVal
-
-		}
-		maxVal = max(nums[i], maxVal*nums[i])
-		minVal = min(nums[i], minVal*nums[i])
-
+	minVal, maxVal, res := 1, 1, nums[0]
+	for _, n := range nums {
+		minNum, maxNum := minVal, maxVal
+		minVal = min(n, min(minNum*n, maxNum*n))
+		maxVal = max(n, max(minNum*n, maxNum*n))
 		res = max(res, maxVal)
 	}
 	return res
