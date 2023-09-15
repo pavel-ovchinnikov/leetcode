@@ -7,31 +7,49 @@ import (
 
 func numberOfSubstrings(s string) int {
 	n := len(s)
-	arrA, arrB, arrC := []int{}, []int{}, []int{}
+	res := 0
+	indexA, indexB, indexC := -1, -1, -1
 	for i, c := range s {
-		switch c {
-		case 'a':
-			arrA = append(arrA, i)
-		case 'b':
-			arrB = append(arrB, i)
-		case 'c':
-			arrC = append(arrC, i)
+		if c == 'a' && indexA == -1 {
+			indexA = i
+			continue
+		}
+
+		if c == 'b' && indexB == -1 {
+			indexB = i
+			continue
+		}
+
+		if c == 'c' && indexC == -1 {
+			indexC = i
+			continue
 		}
 	}
 
-	res := 0
-	indexA, IndexB, indexC := 0, 0, 0
-	for indexA < len(arrA) && IndexB < len(arrB) && indexC < len(arrC) {
-		maxIndex := max(arrA[indexA], arrB[IndexB], arrC[indexC])
-		minIndex := min(arrA[indexA], arrB[IndexB], arrC[indexC])
-		res += n - maxIndex
+	if min(indexA, indexB, indexC) == -1 {
+		return 0
+	}
+
+	nextIndex := func(startIndex int, c byte) int {
+		res := n
+		for i := startIndex; i < n; i++ {
+			if s[i] == c {
+				return i
+			}
+		}
+		return res
+	}
+
+	for index := max(indexA, indexB, indexC); index < n; index = max(indexA, indexB, indexC) {
+		res += n - index
+		minIndex := min(indexA, indexB, indexC)
 		switch s[minIndex] {
 		case 'a':
-			indexA++
+			indexA = nextIndex(indexA+1, 'a')
 		case 'b':
-			IndexB++
+			indexB = nextIndex(indexB+1, 'b')
 		case 'c':
-			indexC++
+			indexC = nextIndex(indexC+1, 'c')
 		}
 	}
 
@@ -60,4 +78,7 @@ func min(nums ...int) int {
 
 func main() {
 	fmt.Println(numberOfSubstrings("abcabc"))
+	fmt.Println(numberOfSubstrings("aaacb"))
+	fmt.Println(numberOfSubstrings("abc"))
+	fmt.Println(numberOfSubstrings("abab"))
 }
