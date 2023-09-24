@@ -2,16 +2,21 @@ package main
 
 import (
 	"fmt"
+	"strconv"
 )
 
 func findComplement(num int) int {
-	mask := num
-	mask |= num >> 1
-	mask |= num >> 2
-	mask |= num >> 4
-	mask |= num >> 8
-	mask |= num >> 16
-	return num ^ mask
+	d := strconv.FormatInt(int64(num), 2)
+	s := make([]byte, len(d))
+	for i := 0; i < len(d); i++ {
+		if d[i] == '1' {
+			s[i] = '0'
+		} else {
+			s[i] = '1'
+		}
+	}
+	m, _ := strconv.ParseInt(string(s), 2, 64)
+	return int(m)
 }
 
 func main() {
