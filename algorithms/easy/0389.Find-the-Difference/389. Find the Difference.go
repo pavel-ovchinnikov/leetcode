@@ -2,26 +2,42 @@ package main
 
 import (
 	"fmt"
-	"sort"
 )
 
-func findTheDifference(s string, t string) byte {
-	ss := []byte(s)
-	tt := []byte(t)
-	sort.Slice(ss, func(i, j int) bool {
-		return ss[i] < ss[j]
-	})
-	sort.Slice(tt, func(i, j int) bool {
-		return tt[i] < tt[j]
-	})
+// func findTheDifference(s string, t string) byte {
+// 	ss := []byte(s)
+// 	tt := []byte(t)
+// 	sort.Slice(ss, func(i, j int) bool {
+// 		return ss[i] < ss[j]
+// 	})
+// 	sort.Slice(tt, func(i, j int) bool {
+// 		return tt[i] < tt[j]
+// 	})
 
-	for i := 0; i < len(ss); i++ {
-		if ss[i] != tt[i] {
-			return tt[i]
+// 	for i := 0; i < len(ss); i++ {
+// 		if ss[i] != tt[i] {
+// 			return tt[i]
+// 		}
+// 	}
+
+// 	return tt[len(tt)-1]
+// }
+
+func findTheDifference(s string, t string) byte {
+	letters := make([]int, 26)
+	for _, c := range s {
+		letters[c-'a']++
+	}
+	for _, c := range t {
+		letters[c-'a']--
+	}
+	for i, count := range letters {
+		if count == -1 {
+			return byte('a' + i)
 		}
 	}
 
-	return tt[len(tt)-1]
+	return 'a'
 }
 
 // func findTheDifference(s string, t string) byte {
@@ -31,7 +47,6 @@ func findTheDifference(s string, t string) byte {
 // 		ch ^= t[i]
 // 	}
 // 	return ch
-
 // }
 
 func main() {
