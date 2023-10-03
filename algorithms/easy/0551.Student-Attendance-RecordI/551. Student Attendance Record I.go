@@ -2,6 +2,10 @@ package main
 
 import "fmt"
 
+// func checkRecord(s string) bool {
+// 	return strings.Count(s, "A") < 2 && strings.Index(s, "LLL") == -1
+// }
+
 func checkRecord(s string) bool {
 	absent := 0
 	late := 0
