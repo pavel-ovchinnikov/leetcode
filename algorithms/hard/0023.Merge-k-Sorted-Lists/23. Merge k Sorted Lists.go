@@ -15,12 +15,27 @@ import (
  */
 type ListNode = structures.ListNode
 
+// func mergeKLists(lists []*ListNode) *ListNode {
+// 	var res *ListNode
+// 	for i := 0; i < len(lists); i++ {
+// 		res = mergeLists(res, lists[i])
+// 	}
+// 	return res
+// }
+
 func mergeKLists(lists []*ListNode) *ListNode {
-	var res *ListNode
-	for i := 0; i < len(lists); i++ {
-		res = mergeLists(res, lists[i])
+	n := len(lists)
+	if n == 0 {
+		return nil
 	}
-	return res
+
+	if n == 1 {
+		return lists[0]
+	}
+
+	l1 := mergeKLists(lists[:n/2])
+	l2 := mergeKLists(lists[n/2:])
+	return mergeLists(l1, l2)
 }
 
 func mergeLists(a, b *ListNode) *ListNode {
