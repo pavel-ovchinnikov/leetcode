@@ -1,4 +1,4 @@
-package mergetwosortedlists
+package removelinkedlistelements
 
 import (
 	. "github.com/pavel-ovchinnikov/leetcode/tools/structures/linked_list"
