@@ -24,3 +24,14 @@ func ConvertListToArray(node *ListNode) []int {
 	}
 	return arr
 }
+
+func Equal(a, b *ListNode) bool {
+	for a != nil && b != nil {
+		if a.Val != b.Val {
+			return false
+		}
+		a, b = a.Next, b.Next
+	}
+
+	return a == nil && b == nil
+}
