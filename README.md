@@ -7,3 +7,4 @@
 | 3 | [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | [Go](./problems/0001-two-sum/solution.go) | Easy |
 | 4 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Go](./problems/0009-palindrome-number/solution.go) | Easy |
 | 5 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Go](./problems/0014-longest-common-prefix/solution.go) | Easy |
+| 6 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Go](./problems/0013-roman-to-integer/solution.go) | Easy |
