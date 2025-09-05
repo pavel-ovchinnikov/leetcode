@@ -8,3 +8,4 @@
 | 4 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Go](./problems/0009-palindrome-number/solution.go) | Easy |
 | 5 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Go](./problems/0014-longest-common-prefix/solution.go) | Easy |
 | 6 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Go](./problems/0013-roman-to-integer/solution.go) | Easy |
+| 7 | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/) | [Go](./problems/1920-build-array-from-permutation/solution.go) | Easy |
