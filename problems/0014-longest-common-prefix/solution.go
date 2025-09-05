@@ -1,4 +1,4 @@
-package template
+package longestcommonprefix
 
 func longestCommonPrefix(strs []string) string {
 	i := 0

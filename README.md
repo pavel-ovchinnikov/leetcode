@@ -1,4 +1,4 @@
-# leetcode
+# LeetCode
 
 |  № | Title | Language | Difficulty |
 |:---:|:---|:---:|:---:|
