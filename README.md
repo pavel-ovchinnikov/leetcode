@@ -15,3 +15,4 @@
 | 11 | [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/) | [Go](./problems/2469-convert-the-temperature/solution.go) | Easy |
 | 12 | [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/) | [Go](./problems/1863-sum-of-all-subset-xor-totals/solution.go) | Easy |
 | 13 | [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/) | [Go](./problems/1108-defanging-an-ip-address/solution.go) | Easy |
+| 14 | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/) | [Go](./problems/1512-number-of-good-pairs/solution.go) | Easy |
