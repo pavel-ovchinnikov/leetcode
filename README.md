@@ -17,3 +17,4 @@
 | 13 | [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/) | [Go](./problems/1108-defanging-an-ip-address/solution.go) | Easy |
 | 14 | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/) | [Go](./problems/1512-number-of-good-pairs/solution.go) | Easy |
 | 15 | [3467. Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/description/) | [Go](./problems/3467-transform-array-by-parity/solution.go) | Easy |
+| 16 | [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/) | [Go](./problems/2824-count-pairs-whose-sum-is-less-than-target/solution.go) | Easy |
