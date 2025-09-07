@@ -24,3 +24,4 @@
 | 20 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) | [Go](./problems/2149-rearrange-array-elements-by-sign/solution.go) | Medium |
 | 21 | [3194. Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/description/) | [Go](./problems/3194-minimum-average-of-smallest-and-largest-elements/solution.go) | Easy |
 | 22 | [2367. Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/description/) | [Go](./problems/2367-number-of-arithmetic-triplets/solution.go) | Easy |
+| 23 | [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/) | [Go](./problems/2000-reverse-prefix-of-word/solution.go) | Easy |
