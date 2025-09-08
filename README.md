@@ -29,3 +29,4 @@
 | 25 | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Go](./problems/0832-flipping-an-image/solution.go) | Easy |
 | 26 | [942. DI String Match](https://leetcode.com/problems/di-string-match/description/) | [Go](./problems/0942-di-string-match/solution.go) | Easy |
 | 27 | [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/) | [Go](./problems/1877-minimize-maximum-pair-sum-in-array/solution.go) | Medium |
+| 28 | [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [Go](./problems/0763-partition-labels/solution.go) | Medium |
