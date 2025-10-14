@@ -7,3 +7,8 @@
 | 3 | [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | [Go](./problems/0001-two-sum/solution.go) | Easy |
 | 4 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Go](./problems/0009-palindrome-number/solution.go) | Easy |
 | 5 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Go](./problems/0014-longest-common-prefix/solution.go) | Easy |
+| 6 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Go](./problems/0013-roman-to-integer/solution.go) | Easy |
+| 7 | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/) | [Go](./problems/1920-build-array-from-permutation/solution.go) | Easy |
+| 8 | [2769. Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/description/) | [Go](./problems/2769-find-the-maximum-achievable-number/solution.go) | Easy |
+| 9 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [Go](./problems/1929-concatenation-of-array/solution.go) | Easy |
+| 10 | [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/) | [Go](./problems/2942-find-words-containing-character/solution.go) | Easy |
