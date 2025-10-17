@@ -20,3 +20,11 @@
 | 16 | [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/) | [Go](./problems/2824-count-pairs-whose-sum-is-less-than-target/solution.go) | Easy |
 | 17 | [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/) | [Go](./problems/2161-partition-array-according-to-given-pivot/solution.go) | Medium |
 | 18 | [0557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [Go](./problems/0557-reverse-words-in-a-string-iii/solution.go) | Easy |
+| 18 | [0557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [Go](./problems/0557-reverse-words-in-a-string-iii/solution.go) | Easy |
+| 19 | [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/) | [Go](./problems/2108-find-first-palindromic-string-in-the-array/solution.go) | Easy |
+| 20 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) | [Go](./problems/2149-rearrange-array-elements-by-sign/solution.go) | Medium |
+| 21 | [3194. Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/description/) | [Go](./problems/3194-minimum-average-of-smallest-and-largest-elements/solution.go) | Easy |
+| 22 | [2367. Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/description/) | [Go](./problems/2367-number-of-arithmetic-triplets/solution.go) | Easy |
+| 23 | [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/) | [Go](./problems/2000-reverse-prefix-of-word/solution.go) | Easy |
+| 24 | [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/description) | [Go](./problems/2396-strictly-palindromic-number/solution.go) | Medium |
+| 25 | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Go](./problems/0832-flipping-an-image/solution.go) | Easy |
