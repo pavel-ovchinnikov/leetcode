@@ -36,3 +36,4 @@
 | 31 | [344. Reverse Stringy](https://leetcode.com/problems/reverse-string/description/) | [Go](./problems/0344-reverse-stringy/solution.go) | Easy |
 | 32 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Go](./problems/0026-remove-duplicates-from-sorted-array/solution.go) | Easy |
 | 33 | [27. Remove Element](https://leetcode.com/problems/remove-element/description/) | [Go](./problems/0027-remove-element/solution.go) | Easy |
+| 34 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description) | [Go](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.go) | Easy |
