@@ -1,0 +1,10 @@
+package sumofallsubsetxortotals
+
+func subsetXORSum(nums []int) int {
+	res := 0
+
+	for _, num := range nums {
+		res |= num
+	}
+	return res << (len(nums) - 1)
+}
