@@ -28,8 +28,8 @@
 | 24 | [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/description) | [Go](./problems/2396-strictly-palindromic-number/solution.go) | Medium |
 | 25 | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Go](./problems/0832-flipping-an-image/solution.go) | Easy |
 | 26 | [942. DI String Match](https://leetcode.com/problems/di-string-match/description/) | [Go](./problems/0942-di-string-match/solution.go) | Easy |
-
 | 27 | [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/) | [Go](./problems/1877-minimize-maximum-pair-sum-in-array/solution.go) | Medium |
 | 28 | [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [Go](./problems/0763-partition-labels/solution.go) | Medium |
 | 29 | [2570. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/) | [Go](./problems/2570-merge-two-2d-arrays-by-summing-values/solution.go) | Easy |
 | 30 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) | [Go](./problems/1768-merge-strings-alternately/solution.go) | Easy |
+| 31 | [344. Reverse Stringy](https://leetcode.com/problems/reverse-string/description/) | [Go](./problems/0344-reverse-stringy/solution.go) | Easy |
