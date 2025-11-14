@@ -34,3 +34,4 @@
 | 30 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) | [Go](./problems/1768-merge-strings-alternately/solution.go) | Easy |
 | 31 | [344. Reverse Stringy](https://leetcode.com/problems/reverse-string/description/) | [Go](./problems/0344-reverse-stringy/solution.go) | Easy |
 | 32 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Go](./problems/00880-merge-sorted-array/solution.go) | Easy |
+| 33 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [Go](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.go) | Easy |
