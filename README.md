@@ -38,3 +38,4 @@
 | 34 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Go](./problems/0125-valid-palindrome/solution.go) | Easy |
 | 35 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [Go](./problems/0392-is-subsequence/solution.go) | Easy |
 | 36 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Go](./problems/0350-intersection-of-two-arrays-ii/solution.go) | Easy |
+| 37 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Go](./problems/0349-intersection-of-two-arrays/solution.go) | Easy |
