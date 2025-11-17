@@ -36,3 +36,4 @@
 | 32 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Go](./problems/0880-merge-sorted-array/solution.go) | Easy |
 | 33 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [Go](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.go) | Easy |
 | 34 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Go](./problems/0125-valid-palindrome/solution.go) | Easy |
+| 35 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [Go](./problems/0392-is-subsequence/solution.go) | Easy |
