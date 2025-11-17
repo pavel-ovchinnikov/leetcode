@@ -40,3 +40,4 @@
 | 36 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Go](./problems/0350-intersection-of-two-arrays-ii/solution.go) | Easy |
 | 37 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Go](./problems/0349-intersection-of-two-arrays/solution.go) | Easy |
 | 38 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Go](./problems/0345-reverse-vowels-of-a-string/solution.go) | Easy |
+| 39 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Go](./problems/0283-move-zeroes/solution.go) | Easy |
