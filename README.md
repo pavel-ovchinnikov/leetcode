@@ -43,3 +43,4 @@
 | 39 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Go](./problems/0283-move-zeroes/solution.go) | Easy |
 | 40 | [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/) | [Go](./problems/0917-reverse-only-letters/solution.go) | Easy |
 | 41 | [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/) | [Go](./problems/0922-sort-array-by-parity-ii/solution.go) | Easy |
+| 42 | [1961. Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/description/) | [Go](./problems/1961-check-If-string-is-a-prefix-of-array/solution.go) | Easy |
