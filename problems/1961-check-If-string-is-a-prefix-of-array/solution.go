@@ -14,5 +14,5 @@ func isPrefixString(s string, words []string) bool {
 		}
 	}
 
-	return true
+	return false
 }

@@ -40,6 +40,12 @@ func Test_isPrefixString(t *testing.T) {
 			words: []string{"ab", "cd", "ef"},
 			want:  false,
 		},
+		{
+			name:  "example 6",
+			s:     "ccccccccc",
+			words: []string{"c", "cc"},
+			want:  false,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
