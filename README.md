@@ -47,3 +47,4 @@
 | 43 | [2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/description/) | [Go](./problems/2200-find-all-k-distant-indices-in-an-array/solution.go) | Easy |
 | 45 | [2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/) | [Go](./problems/2441-largest-positive-integer-that-exists-with-its-negative/solution.go) | Easy |
 | 46 | [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/) | [Go](./problems/2460-apply-operations-to-an-array/solution.go) | Easy |
+| 47 | [2465. Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/description/) | [Go](./problems/2465-number-of-distinct-averages/solution.go) | Easy |
