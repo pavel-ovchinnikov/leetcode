@@ -48,3 +48,4 @@
 | 45 | [2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/) | [Go](./problems/2441-largest-positive-integer-that-exists-with-its-negative/solution.go) | Easy |
 | 46 | [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/) | [Go](./problems/2460-apply-operations-to-an-array/solution.go) | Easy |
 | 47 | [2465. Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/description/) | [Go](./problems/2465-number-of-distinct-averages/solution.go) | Easy |
+| 48 | [2511. Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/description/) | [Go](./problems/2511-maximum-enemy-forts-that-can-be-captured/solution.go) | Easy |
