@@ -50,3 +50,4 @@
 | 47 | [2465. Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/description/) | [Go](./problems/2465-number-of-distinct-averages/solution.go) | Easy |
 | 48 | [2511. Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/description/) | [Go](./problems/2511-maximum-enemy-forts-that-can-be-captured/solution.go) | Easy |
 | 49 | [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/) | [Go](./problems/2540-minimum-common-value/solution.go) | Easy |
+| 50 | [3643. Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/description/) | [Go](./problems/3643-flip-square-submatrix-vertically/solution.go) | Easy |
