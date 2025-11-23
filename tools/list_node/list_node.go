@@ -5,7 +5,7 @@ type ListNode struct {
 	Next *ListNode
 }
 
-func convertArrayToList(values []int) *ListNode {
+func ConvertArrayToList(values []int) *ListNode {
 	dummy := &ListNode{}
 	cur := dummy
 
@@ -17,7 +17,7 @@ func convertArrayToList(values []int) *ListNode {
 	return dummy.Next
 }
 
-func convertListToArray(head *ListNode) []int {
+func ConvertListToArray(head *ListNode) []int {
 	result := make([]int, 0)
 	cur := head
 	for cur != nil {
@@ -26,4 +26,16 @@ func convertListToArray(head *ListNode) []int {
 	}
 
 	return result
+}
+
+func AreListsEqual(l1 *ListNode, l2 *ListNode) bool {
+	for l1 != nil && l2 != nil {
+		if l1.Val != l2.Val {
+			return false
+		}
+		l1 = l1.Next
+		l2 = l2.Next
+	}
+
+	return l1 == nil && l2 == nil
 }

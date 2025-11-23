@@ -39,9 +39,57 @@ func Test_converters(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			list := convertArrayToList(tt.values)
-			if !reflect.DeepEqual(convertListToArray(list), tt.want) {
-				t.Errorf("convertArrayToList() = %v, want %v", convertListToArray(list), tt.want)
+			list := ConvertArrayToList(tt.values)
+			if !reflect.DeepEqual(ConvertListToArray(list), tt.want) {
+				t.Errorf("convertArrayToList() = %v, want %v", ConvertListToArray(list), tt.want)
+			}
+		})
+	}
+}
+
+func TestAreListsEqual(t *testing.T) {
+	tests := []struct {
+		name string // description of this test case
+		l1   *ListNode
+		l2   *ListNode
+		want bool
+	}{
+		{
+			name: "Test Case 1",
+			l1:   ConvertArrayToList([]int{1, 2, 3}),
+			l2:   ConvertArrayToList([]int{1, 2, 3}),
+			want: true,
+		},
+		{
+			name: "Test Case 2",
+			l1:   ConvertArrayToList([]int{1, 2, 3}),
+			l2:   ConvertArrayToList([]int{1, 2, 4}),
+			want: false,
+		},
+		{
+			name: "Test Case 3",
+			l1:   nil,
+			l2:   nil,
+			want: true,
+		},
+		{
+			name: "Test Case 4",
+			l1:   nil,
+			l2:   ConvertArrayToList([]int{0}),
+			want: false,
+		},
+		{
+			name: "Test Case 5",
+			l1:   ConvertArrayToList([]int{1, 2, 3}),
+			l2:   ConvertArrayToList([]int{1, 2, 3, 4}),
+			want: false,
+		},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			got := AreListsEqual(tt.l1, tt.l2)
+			if got != tt.want {
+				t.Errorf("AreListsEqual() = %v, want %v", got, tt.want)
 			}
 		})
 	}
