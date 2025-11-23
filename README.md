@@ -52,3 +52,4 @@
 | 49 | [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/) | [Go](./problems/2540-minimum-common-value/solution.go) | Easy |
 | 50 | [3643. Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/description/) | [Go](./problems/3643-flip-square-submatrix-vertically/solution.go) | Easy |
 | 51 | [3633. Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/description/) | [Go](./problems/3643-flip-square-submatrix-vertically/solution.go) | Easy |
+| 52 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [Go](./problems/0146-lru-cache/solution.go) | Easy |
