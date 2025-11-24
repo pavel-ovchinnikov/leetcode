@@ -56,3 +56,4 @@
 | 53 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Go](./problems/0021-merge-two-sorted-lists/solution.go) | Easy |
 | 54 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Go](./problems/0083-remove-duplicates-from-sorted-list/solution.go) | Easy |
 | 55 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Go](./problems/0141-linked-list-cycle/solution.go) | Easy |
+| 56 | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | [Go](./problems/1290-convert-binary-number-in-a-linked-list-to-integer/solution.go) | Easy |
