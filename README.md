@@ -54,3 +54,4 @@
 | 51 | [3633. Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/description/) | [Go](./problems/3643-flip-square-submatrix-vertically/solution.go) | Easy |
 | 52 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [Go](./problems/0146-lru-cache/solution.go) | Medium |
 | 53 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Go](./problems/0021-merge-two-sorted-lists/solution.go) | Easy |
+| 54 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Go](./problems/0083-remove-duplicates-from-sorted-list/solution.go) | Easy |
