@@ -59,3 +59,4 @@
 | 56 | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | [Go](./problems/1290-convert-binary-number-in-a-linked-list-to-integer/solution.go) | Easy |
 | 57 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Go](./problems/0876-middle-of-the-linked-list/solution.go) | Easy |
 | 58 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Go](./problems/0234-palindrome-linked-list/solution.go) | Easy |
+| 59 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Go](./problems/0206-reverse-linked-list/solution.go) | Easy |
