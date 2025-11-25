@@ -64,3 +64,4 @@
 | 61 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Go](./problems/0160-intersection-of-two-linked-lists/solution.go) | Easy |
 | 62 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Go](./problems/0024-swap-nodes-in-pairs/solution.go) | Medium |
 | 63 | [2562. Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/description/) | [Go](./problems/2562-find-the-array-concatenation-value/solution.go) | Easy |
+| 64 | [2697. Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/description/) | [Go](./problems/2697-lexicographically-smallest-palindrome/solution.go) | Easy |
