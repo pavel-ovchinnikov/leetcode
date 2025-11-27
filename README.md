@@ -65,3 +65,4 @@
 | 62 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Go](./problems/0024-swap-nodes-in-pairs/solution.go) | Medium |
 | 63 | [2562. Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/description/) | [Go](./problems/2562-find-the-array-concatenation-value/solution.go) | Easy |
 | 64 | [2697. Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/description/) | [Go](./problems/2697-lexicographically-smallest-palindrome/solution.go) | Easy |
+| 65 | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Go](./problems/0082-remove-duplicates-from-sorted-list-ii/solution.go) | Medium |
