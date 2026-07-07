@@ -14,5 +14,4 @@
 | 10 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Go](./problems/35-search-insert-position/solution.go) | Easy |
 | 11 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Go](./problems/0058-length-of-last-word/solution.go) | Easy |
 | 12 | [66. Plus One](https://leetcode.com/problems/plus-one/description/) | [Go](./problems/0066-plus-one/solution.go) | Easy |
-
-
+| 13 | [67. Add Binary](https://leetcode.com/problems/add-binary/description/) | [Go](./problems/0067-add-binary/solution.go) | Easy |
