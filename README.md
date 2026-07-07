@@ -10,3 +10,4 @@
 | 5 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Go](./problems/0021-merge-two-sorted-lists/solution.go) | Easy |
 | 6 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Go](./problems/0026-remove-duplicates-from-sorted-array/solution.go) | Easy |
 | 7 | [27. Remove Element](https://leetcode.com/problems/remove-element/description/) | [Go](./problems/0027-remove-element/solution.go) | Easy |
+| 8 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/remove-element/description/) | [Go](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.go) | Easy |
