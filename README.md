@@ -8,3 +8,4 @@
 | 4 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Go](./problems/0020-valid-parentheses/solution.go) | Easy |
 | 4 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Go](./problems/0014-longest-common-prefix/solution.go) | Easy |
 | 5 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Go](./problems/0021-merge-two-sorted-lists/solution.go) | Easy |
+| 6 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Go](./problems/0026-remove-duplicates-from-sorted-array/solution.go) | Easy |
