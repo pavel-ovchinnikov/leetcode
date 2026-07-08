@@ -5,19 +5,13 @@ import (
 )
 
 func deleteDuplicates(head *ListNode) *ListNode {
-	dummy := &ListNode{Next: head}
-	prev := dummy
-	curr := head
-	for curr != nil && prev != nil {
-		if prev.Val == curr.Val {
-			prev.Next = curr.Next
-			temp := curr.Next
-			curr.Next = nil
-			curr = temp
+	cur := head
+	for cur != nil && cur.Next != nil {
+		if cur.Val == cur.Next.Val {
+			cur.Next = cur.Next.Next
 		} else {
-			curr = curr.Next
-			prev = prev.Next
+			cur = cur.Next
 		}
 	}
-	return dummy.Next
+	return head
 }

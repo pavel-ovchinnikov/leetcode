@@ -16,6 +16,7 @@ func Test_deleteDuplicates(t *testing.T) {
 		want *ListNode
 	}{
 		{"nil head", args{nil}, nil},
+		{"single node", args{ConvertArrayToList([]int{0, 0, 0, 0})}, ConvertArrayToList([]int{0})},
 		{"single node", args{ConvertArrayToList([]int{1})}, ConvertArrayToList([]int{1})},
 		{"no duplicates", args{ConvertArrayToList([]int{1, 2, 3})}, ConvertArrayToList([]int{1, 2, 3})},
 		{"all duplicates", args{ConvertArrayToList([]int{1, 1, 1})}, ConvertArrayToList([]int{1})},
