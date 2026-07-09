@@ -16,3 +16,4 @@
 | 12 | [66. Plus One](https://leetcode.com/problems/plus-one/description/) | [Go](./problems/0066-plus-one/solution.go) | Easy |
 | 13 | [67. Add Binary](https://leetcode.com/problems/add-binary/description/) | [Go](./problems/0067-add-binary/solution.go) | Easy |
 | 14 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Go](./problems/0083-remove-duplicates-from-sorted-list/solution.go) | Easy |
+| 15 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Go](./problems/0088-merge-sorted-array/solution.go) | Easy |
