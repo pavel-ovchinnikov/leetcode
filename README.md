@@ -23,5 +23,5 @@
 | 19 | [182. Duplicate Emails](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/) | [SQL](./problems/0182-duplicate-emails/solution.sql) | Easy |
 | 20 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/description/) | [SQL](./problems/0183-customers-who-never-order/solution.sql) | Easy |
 | 21 | [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/) | [SQL](./problems/0196-delete-duplicate-emails/solution.sql) | Easy |
-
-
+| 22 | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/) | [SQL](./problems/0197-rising-temperature/solution.sql) | Easy |
+| 23 | [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/) | [SQL](./problems/0511-game-play-analysis-i/solution.sql) | Easy |
