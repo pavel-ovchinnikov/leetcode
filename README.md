@@ -26,3 +26,5 @@
 | 22 | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/) | [SQL](./problems/0197-rising-temperature/solution.sql) | Easy |
 | 23 | [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/) | [SQL](./problems/0511-game-play-analysis-i/solution.sql) | Easy |
 | 24 | [586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/) | [SQL](./problems/0586-customer-placing-the-largest-number-of-orders/solution.sql) | Easy |
+
+
