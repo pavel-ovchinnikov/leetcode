@@ -29,4 +29,6 @@
 | 25 | [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/) | [SQL](./problems/0584-find-customer-referee/solution.sql) | Easy |
 | 26 | [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/description/) | [SQL](./problems/0577-employee-bonus/solution.sql) | Easy |
 
+| 27 | [595. Big Countries](https://leetcode.com/problems/big-countries/description/) | [SQL](./problems/0595-big-countries/solution.sql) | Easy |
+
 
