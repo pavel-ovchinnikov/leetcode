@@ -31,5 +31,4 @@
 | 27 | [595. Big Countries](https://leetcode.com/problems/big-countries/description/) | [SQL](./problems/0595-big-countries/solution.sql) | Easy |
 | 28 | [596. Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/description/) | [SQL](./problems/0596-classes-with-atleast-5-students/solution.sql) | Easy |
 | 29 | [607. Sales Person](https://leetcode.com/problems/sales-person/description/) | [SQL](./problems/0607-sales-person/solution.sql) | Easy |
-
-
+| 30 | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/) | [SQL](./problems/0610-triangle-judgement/solution.sql) | Easy |
