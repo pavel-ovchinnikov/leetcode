@@ -36,4 +36,6 @@
 | 32 | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/) | [SQL](./problems/0620-not-boring-movies/solution.sql) | Easy |
 | 33 | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/) | [SQL](./problems/0176-second-highest-salary/solution.sql) | Medium |
 | 34 | [178. Rank Scores](https://leetcode.com/problems/second-highest-salary/description/) | [SQL](./problems/0178-rank-scores/solution.sql) | Medium |
-| 35 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=problem-list-v2&envId=two-pointers) | [Go](./problems/0125-valid-palindrome/solution.Go) | Easy |
+| 35 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Go](./problems/0125-valid-palindrome/solution.go) | Easy |
+| 36 | [202. Happy Number](https://leetcode.com/problems/happy-number/description/) | [Go](./problems/0202-happy-number/solution.go) | Easy |
+
