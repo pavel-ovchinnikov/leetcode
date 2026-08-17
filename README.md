@@ -40,5 +40,6 @@
 | 36 | [202. Happy Number](https://leetcode.com/problems/happy-number/description/) | [Go](./problems/0202-happy-number/solution.go) | Easy |
 | 37 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Go](./problems/0283-move-zeroes/solution.go) | Easy |
 | 38 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | [Go](./problems/0344-reverse-string/solution.go) | Easy |
+| 39 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Go](./problems/0345-reverse-vowels-of-a-string/solution.go) | Easy |
 
 
