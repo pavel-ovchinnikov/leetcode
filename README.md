@@ -38,4 +38,6 @@
 | 34 | [178. Rank Scores](https://leetcode.com/problems/second-highest-salary/description/) | [SQL](./problems/0178-rank-scores/solution.sql) | Medium |
 | 35 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Go](./problems/0125-valid-palindrome/solution.go) | Easy |
 | 36 | [202. Happy Number](https://leetcode.com/problems/happy-number/description/) | [Go](./problems/0202-happy-number/solution.go) | Easy |
+| 37 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Go](./problems/0283-move-zeroes/solution.go) | Easy |
+
 
