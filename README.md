@@ -41,5 +41,4 @@
 | 37 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Go](./problems/0283-move-zeroes/solution.go) | Easy |
 | 38 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | [Go](./problems/0344-reverse-string/solution.go) | Easy |
 | 39 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Go](./problems/0345-reverse-vowels-of-a-string/solution.go) | Easy |
-
-
+| 40 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Go](./problems/0349-intersection-of-two-arrays/solution.go) | Easy |
