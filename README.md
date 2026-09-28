@@ -44,3 +44,4 @@
 | 40 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Go](./problems/0349-intersection-of-two-arrays/solution.go) | Easy |
 | 41 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Go](./problems/0350-intersection-of-two-arrays-ii/solution.go) | Easy |
 | 42 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [Go](./problems/0392-is-subsequence/solution.go) | Easy |
+| 43 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Go](./problems/0217-contains-duplicate/solution.go) | Easy |
