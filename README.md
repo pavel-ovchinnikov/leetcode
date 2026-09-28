@@ -46,4 +46,7 @@
 | 42 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [Go](./problems/0392-is-subsequence/solution.go) | Easy |
 | 43 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Go](./problems/0217-contains-duplicate/solution.go) | Easy |
 | 44 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Go](./problems/0049-group-anagrams/solution.go) | Medium |
-| 45 | [128. Longest Consecutive Sequence — Medium](https://leetcode.com/problems/longest-consecutive-sequence/) | [Go](./problems/0128-longest-consecutive-sequence/solution.go) | Medium |
+| 45 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Go](./problems/0128-longest-consecutive-sequence/solution.go) | Medium |
+| 46 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Go](./problems/0238-product-of-array-except-self/solution.go) | Medium |
+
+
