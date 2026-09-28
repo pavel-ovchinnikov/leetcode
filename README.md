@@ -45,4 +45,5 @@
 | 41 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Go](./problems/0350-intersection-of-two-arrays-ii/solution.go) | Easy |
 | 42 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [Go](./problems/0392-is-subsequence/solution.go) | Easy |
 | 43 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Go](./problems/0217-contains-duplicate/solution.go) | Easy |
-| 43 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Go](./problems/0049-group-anagrams/solution.go) | Medium |
+| 44 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Go](./problems/0049-group-anagrams/solution.go) | Medium |
+| 45 | [128. Longest Consecutive Sequence — Medium](https://leetcode.com/problems/longest-consecutive-sequence/) | [Go](./problems/0128-longest-consecutive-sequence/solution.go) | Medium |
